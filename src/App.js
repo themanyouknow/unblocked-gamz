@@ -11,6 +11,7 @@ function App() {
         <Header />
         <Routes>
           <Route index path="/" element={<Home />} />
+          <Route path="/unblocked-gamz" element={<Home />} />
           <Route path="/game/:name" element={<Game />} />
         </Routes>
       </BrowserRouter>
