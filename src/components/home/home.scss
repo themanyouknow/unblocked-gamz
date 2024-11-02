@@ -1,0 +1,13 @@
+.home {
+  background-color: rgba(0, 255, 242, 0.37);
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  align-items: center;
+  img {
+    height: 350px;
+    width: 350px;
+    object-fit: cover;
+    border-radius: 50px;
+  }
+}
