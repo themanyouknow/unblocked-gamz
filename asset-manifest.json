@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "/unblocked-gamz/static/css/main.5465653e.css",
-    "main.js": "/unblocked-gamz/static/js/main.40fbb0d3.js",
-    "static/js/453.6a12dee2.chunk.js": "/unblocked-gamz/static/js/453.6a12dee2.chunk.js",
-    "static/media/fruitNinja.png": "/unblocked-gamz/static/media/fruitNinja.8e0dbf0f34887f17298b.png",
-    "static/media/Car.png": "/unblocked-gamz/static/media/Car.b4d6d2bd3414525e593d.png",
-    "static/media/FlappyBird.png": "/unblocked-gamz/static/media/FlappyBird.93799c6933cd023114af.png",
-    "static/media/BottleFlip.png": "/unblocked-gamz/static/media/BottleFlip.d0af2b71c48adefc0053.png",
-    "static/media/DrawTheHill.jpg": "/unblocked-gamz/static/media/DrawTheHill.2731d446e223c86b9ab2.jpg",
-    "static/media/Pacman.png": "/unblocked-gamz/static/media/Pacman.dde209721d56c3a7bb38.png",
-    "static/media/melodysadventure.jpg": "/unblocked-gamz/static/media/melodysadventure.5c46c40fb40db4b34a52.jpg",
-    "static/media/geometrydashsubzero.jpg": "/unblocked-gamz/static/media/geometrydashsubzero.9a1a1bccfbc0260fb61b.jpg",
-    "static/media/GeometryDash.jpg": "/unblocked-gamz/static/media/GeometryDash.2acfcc72033db0cd2639.jpg",
-    "static/media/rollyvortex.jpg": "/unblocked-gamz/static/media/rollyvortex.c0202442b5e1877c77c4.jpg",
-    "static/media/drifthunters.jpg": "/unblocked-gamz/static/media/drifthunters.d5fdd8c7d2125f4c61c3.jpg",
-    "static/media/wheeliebike.jpg": "/unblocked-gamz/static/media/wheeliebike.95c37cb16b2eac541f48.jpg",
-    "static/media/Trex.avif": "/unblocked-gamz/static/media/Trex.55ba8783cb35b2ac559a.avif",
-    "index.html": "/unblocked-gamz/index.html",
-    "main.5465653e.css.map": "/unblocked-gamz/static/css/main.5465653e.css.map",
-    "main.40fbb0d3.js.map": "/unblocked-gamz/static/js/main.40fbb0d3.js.map",
-    "453.6a12dee2.chunk.js.map": "/unblocked-gamz/static/js/453.6a12dee2.chunk.js.map"
+    "main.css": "/static/css/main.5465653e.css",
+    "main.js": "/static/js/main.e09db7e1.js",
+    "static/js/453.6a12dee2.chunk.js": "/static/js/453.6a12dee2.chunk.js",
+    "static/media/fruitNinja.png": "/static/media/fruitNinja.8e0dbf0f34887f17298b.png",
+    "static/media/Car.png": "/static/media/Car.b4d6d2bd3414525e593d.png",
+    "static/media/FlappyBird.png": "/static/media/FlappyBird.93799c6933cd023114af.png",
+    "static/media/BottleFlip.png": "/static/media/BottleFlip.d0af2b71c48adefc0053.png",
+    "static/media/DrawTheHill.jpg": "/static/media/DrawTheHill.2731d446e223c86b9ab2.jpg",
+    "static/media/Pacman.png": "/static/media/Pacman.dde209721d56c3a7bb38.png",
+    "static/media/melodysadventure.jpg": "/static/media/melodysadventure.5c46c40fb40db4b34a52.jpg",
+    "static/media/geometrydashsubzero.jpg": "/static/media/geometrydashsubzero.9a1a1bccfbc0260fb61b.jpg",
+    "static/media/GeometryDash.jpg": "/static/media/GeometryDash.2acfcc72033db0cd2639.jpg",
+    "static/media/rollyvortex.jpg": "/static/media/rollyvortex.c0202442b5e1877c77c4.jpg",
+    "static/media/drifthunters.jpg": "/static/media/drifthunters.d5fdd8c7d2125f4c61c3.jpg",
+    "static/media/wheeliebike.jpg": "/static/media/wheeliebike.95c37cb16b2eac541f48.jpg",
+    "static/media/Trex.avif": "/static/media/Trex.55ba8783cb35b2ac559a.avif",
+    "index.html": "/index.html",
+    "main.5465653e.css.map": "/static/css/main.5465653e.css.map",
+    "main.e09db7e1.js.map": "/static/js/main.e09db7e1.js.map",
+    "453.6a12dee2.chunk.js.map": "/static/js/453.6a12dee2.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5465653e.css",
-    "static/js/main.40fbb0d3.js"
+    "static/js/main.e09db7e1.js"
   ]
 }
