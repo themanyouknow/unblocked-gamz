@@ -8,7 +8,7 @@ const Game = () => {
   const gameItem = data.find((item) => item.name === name);
 
   return (
-    <div>
+    <div className="game">
       {gameItem ? (
         <div dangerouslySetInnerHTML={{ __html: gameItem.embed }} />
       ) : (
